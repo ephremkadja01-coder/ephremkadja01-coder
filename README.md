@@ -1,4 +1,4 @@
-# Ephrem Kadja
+# Hi! I'm Ephrem Kadja 👋
 
 **Machine Learning Student & Cyber Data Science Explorer**  
 *Applying predictive analytics and data science methodologies to network security.*
@@ -25,19 +25,19 @@
 
 The percentages below reflect my current academic level, practical project execution, and ongoing areas of intensive self-study:
 
-```text
-[Python & Core Data Analysis]
-██████████████████████████████░░░░░  85% (Advanced Student)
+```diff
++ [Python & Core Data Analysis]
++ ██████████████████████████████░░░░░  85% (Advanced Student)
 ```
-```text
+```yaml
 [Machine Learning Models - Scikit-Learn, XGBoost, CatBoost]
 ████████████████████████░░░░░░░░░░░  70% (Intermediate / Hands-on)
 ```
-```text
-[Computer Vision - OpenCV]
-██████████████████░░░░░░░░░░░░░░░░░  55% (Functional / Project-based)
+```diff
+- [Computer Vision - OpenCV]
+- ██████████████████░░░░░░░░░░░░░░░░░  55% (Functional / Project-based)
 ```
-```text
+```diff
 [Cybersecurity Frameworks & Traffic Analysis]
 ████████████░░░░░░░░░░░░░░░░░░░░░░░  35% (Beginner / Active Exploration)
 ```
