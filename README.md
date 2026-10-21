@@ -3,40 +3,44 @@
 **Machine Learning & Data Science Student**  
 *Exploring the intersection of Predictive Analytics and Cybersecurity*
 
----
-
-### 💼 Technical Profile
 Highly analytical and detail-oriented student with a solid foundation in data preprocessing, feature engineering, and predictive modeling using advanced algorithms (XGBoost, CatBoost, LightGBM). Currently bridging the gap between Data Science and Cybersecurity, with a strong focus on processing network logs, traffic analysis, and anomaly detection.
 
-- **Current Location:** Abidjan, Côte d'Ivoire
-- **Core Focus:** Network Intrusion Detection Systems (NIDS) & Behavioral Threat Analysis
-- **Aspirations:** Implementing intelligent, data-driven automation for Security Operations Centers (SOC)
+🌐 **Portfolio:** [ephremkadja.netlify.app](https://ephremkadja.netlify.app) | 📍 **Location:** Abidjan, Côte d'Ivoire
 
 ---
 
-### 💻 Professional Skillset
+## 🛠️ What I'm building & learning now
 
-#### Data Science & Machine Learning
-<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Scikit-Learn" /> <img src="https://shields.io" alt="Pandas" /> <img src="https://shields.io" alt="NumPy" />
-
-#### Analytics & Infrastructure
-<img src="https://shields.io" alt="OpenCV" /> <img src="https://shields.io" alt="Linux" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="VS Code" />
-
-#### Cybersecurity Domains (Active Training)
-<img src="https://shields.io" alt="Wireshark" /> <img src="https://shields.io" alt="Traffic Analysis" /> <img src="https://shields.io" alt="Anomaly Detection" />
+| Project / Domain | What it is / Technologies used |
+| :--- | :--- |
+| **Network Intrusion Detection** | Building an advanced NIDS using **CatBoost** and **LightGBM** on the UNSW-NB15 dataset. |
+| **Computer Vision** | Face detection pipelines in real-time using **OpenCV** and Python. |
+| **Cybersecurity (Active)** | Deep dive into network traffic analysis, packet analysis with **Wireshark**, and Linux systems. |
 
 ---
 
-### 🌐 Professional Networks & Contact
+## 📊 GitHub Stats
 
-To discuss research, collaboration, or professional opportunities, please use the links below:
+<table>
+  <tr>
+    <td width="50%"><img src="https://vercel.app" alt="GitHub Stats" /></td>
+    <td width="50%"><img src="https://vercel.app" alt="Top Languages" /></td>
+  </tr>
+</table>
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
-</a>
-<a href="mailto:ephremkadja01@gmail.com">
-  <img src="https://shields.io" alt="Email" />
-</a>
-<a href="https://ephremkadja.netlify.app" target="_blank">
-  <img src="https://shields.io" alt="Portfolio" />
-</a>
+---
+
+## 💻 Tech Stack & Toolset
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Data Science & ML** | `Python` `Scikit-Learn` `Pandas` `NumPy` `XGBoost` `CatBoost` |
+| **Infrastructure & Cyber** | `Linux` `Git` `VS Code` `Wireshark` `Network Security` |
+
+---
+
+## 🤝 Feel free to connect
+
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:ephremkadja01@gmail.com) [![Portfolio](https://shields.io)](https://ephremkadja.netlify.app)
+
+*Consider leaving a ⭐ on repos you like!*
