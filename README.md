@@ -1,46 +1,58 @@
-# Ephrem Kadja
+# Hi! I'm Ephrem Kadja 👋
 
-**Machine Learning & Data Science Student**  
-*Exploring the intersection of Predictive Analytics and Cybersecurity*
+Machine Learning student with a solid background in data analysis. Currently expanding my skills into Cyber Data Science and Network Intrusion Detection. I love transforming complex datasets into actionable insights and building predictive models.
 
-Highly analytical and detail-oriented student with a solid foundation in data preprocessing, feature engineering, and predictive modeling using advanced algorithms (XGBoost, CatBoost, LightGBM). Currently bridging the gap between Data Science and Cybersecurity, with a strong focus on processing network logs, traffic analysis, and anomaly detection.
-
-🌐 **Portfolio:** [ephremkadja.netlify.app](https://ephremkadja.netlify.app) | 📍 **Location:** Abidjan, Côte d'Ivoire
+🌐 **Portfolio:** [ephremkadja.netlify.app](https://netlify.app) | 📍 **Abidjan, Côte d'Ivoire**
 
 ---
 
-## 🛠️ What I'm building & learning now
+## 🛠️ What I'm building now
 
-| Project / Domain | What it is / Technologies used |
+| Project | What it is |
 | :--- | :--- |
-| **Network Intrusion Detection** | Building an advanced NIDS using **CatBoost** and **LightGBM** on the UNSW-NB15 dataset. |
+| **Network Intrusion** | Building an advanced NIDS using **CatBoost** and **LightGBM** on the UNSW-NB15 dataset. |
 | **Computer Vision** | Face detection pipelines in real-time using **OpenCV** and Python. |
-| **Cybersecurity (Active)** | Deep dive into network traffic analysis, packet analysis with **Wireshark**, and Linux systems. |
+| **Cybersecurity** | Deep dive into network traffic analysis, packet analysis with **Wireshark**, and Linux systems. |
 
 ---
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%"><img src="https://vercel.app" alt="GitHub Stats" /></td>
-    <td width="50%"><img src="https://vercel.app" alt="Top Languages" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</p>
 
 ---
 
-## 💻 Tech Stack & Toolset
+## 🚀 Progress & Skill Levels (Barres de progression)
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Data Science & ML** | `Python` `Scikit-Learn` `Pandas` `NumPy` `XGBoost` `CatBoost` |
-| **Infrastructure & Cyber** | `Linux` `Git` `VS Code` `Wireshark` `Network Security` |
+**Python & Core Analytics**
+![](https://geps.dev)
+
+**Machine Learning (Scikit-Learn, XGBoost, CatBoost)**
+![](https://geps.dev)
+
+**Computer Vision (OpenCV)**
+![](https://geps.dev)
+
+**Cyber Data Science & Network Security (Learning)**
+![](https://geps.dev)
 
 ---
 
 ## 🤝 Feel free to connect
 
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:ephremkadja01@gmail.com) [![Portfolio](https://shields.io)](https://ephremkadja.netlify.app)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ephrem-kadja" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ephremkadja01@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://netlify.app" target="_blank">
+    <img src="https://shields.io" alt="Portfolio" />
+  </a>
+</p>
 
 *Consider leaving a ⭐ on repos you like!*
