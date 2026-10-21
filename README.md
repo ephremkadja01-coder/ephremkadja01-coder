@@ -17,13 +17,13 @@ Highly analytical and detail-oriented student with a solid foundation in data pr
 ### 💻 Professional Skillset
 
 #### Data Science & Machine Learning
-![Python](https://shields.io) ![Scikit-Learn](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io)
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Scikit-Learn" /> <img src="https://shields.io" alt="Pandas" /> <img src="https://shields.io" alt="NumPy" />
 
 #### Analytics & Infrastructure
-![OpenCV](https://shields.io) ![Linux](https://shields.io) ![Git](https://shields.io) ![VS_Code](https://shields.io)
+<img src="https://shields.io" alt="OpenCV" /> <img src="https://shields.io" alt="Linux" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="VS Code" />
 
 #### Cybersecurity Domains (Active Training)
-![Wireshark](https://shields.io) ![Network Traffic Analysis](https://shields.io) ![Anomaly Detection](https://shields.io)
+<img src="https://shields.io" alt="Wireshark" /> <img src="https://shields.io" alt="Traffic Analysis" /> <img src="https://shields.io" alt="Anomaly Detection" />
 
 ---
 
@@ -31,6 +31,12 @@ Highly analytical and detail-oriented student with a solid foundation in data pr
 
 To discuss research, collaboration, or professional opportunities, please use the links below:
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ephrem-kadja)
-[![Email](https://shields.io)](mailto:ephremkadja01@gmail.com)
-[![Portfolio](https://shields.io)](https://ephremkadja.netlify.app)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="mailto:ephremkadja01@gmail.com">
+  <img src="https://shields.io" alt="Email" />
+</a>
+<a href="https://ephremkadja.netlify.app" target="_blank">
+  <img src="https://shields.io" alt="Portfolio" />
+</a>
