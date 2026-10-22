@@ -1,7 +1,7 @@
 # Hi! I'm Ephrem Kadja 👋
 
-**Machine Learning Student & Cyber Data Science Explorer**  
-*Applying predictive analytics and data science methodologies to network security.*
+**Machine Learning Student**  
+*Focused on designing, engineering, and evaluating predictive models for real-world applications.*
 
 ---
 
@@ -11,40 +11,46 @@
 
 ---
 
-## Technical Activities & Projects
+## 🎯 Profile & Story
 
-| Domain | Focus Area | Technologies & Methods |
-| :--- | :--- | :--- |
-| **Cybersecurity** | Network Intrusion Detection | Implementing NIDS baselines using CatBoost and LightGBM on the UNSW-NB15 dataset. |
-| **Computer Vision** | Real-time Face Detection | Developing and optimizing image processing pipelines using OpenCV and Python. |
-| **Data Analytics** | Predictive Modeling | Hyperparameter tuning and feature engineering for tabular data using XGBoost. |
+I am a Computer Science student specializing in **Machine Learning**. My core expertise lies in data engineering and tabular modeling. Driven by curiosity, I actively apply my Machine Learning foundation to specialized domains, specifically **Cybersecurity** (threat detection) and **Computer Vision** (image processing).
 
 ---
 
-## Technical Proficiency & Skill Progression
+## 💻 Technical Skillset (Verifiable Competencies)
 
-The percentages below reflect my current academic level, practical project execution, and ongoing areas of intensive self-study:
-
-```diff
-+ [Python & Core Data Analysis]
-+ ██████████████████████████████░░░░░  85% (Advanced Student)
-```
-```yaml
-[Machine Learning Models - Scikit-Learn, XGBoost, CatBoost]
-████████████████████████░░░░░░░░░░░  70% (Intermediate / Hands-on)
-```
-```diff
-- [Computer Vision - OpenCV]
-- ██████████████████░░░░░░░░░░░░░░░░░  55% (Functional / Project-based)
-```
-```diff
-[Cybersecurity Frameworks & Traffic Analysis]
-████████████░░░░░░░░░░░░░░░░░░░░░░░  35% (Beginner / Active Exploration)
-```
+| Domain | Practical Knowledge & Tools |
+| :--- | :--- |
+| **Data Science** | Exploratory Data Analysis (EDA), data cleaning, advanced feature engineering, handling class imbalance (`Pandas`, `NumPy`). |
+| **Machine Learning** | Classification, regression, hyperparameter tuning, model validation (`Scikit-Learn`, `XGBoost`, `CatBoost`, `LightGBM`). |
+| **Computer Vision** | Image preprocessing, real-time object/face detection (`OpenCV`). |
+| **Infrastructure & Cyber** | Linux environments, version control (`Git`), packet capture inspection (`Wireshark`). |
 
 ---
 
-## Professional Networks & Contact
+## 🛠️ Project Portfolio & Progress Levels
+
+To guarantee transparency, my technical work is classified into distinct development stages:
+
+### 📈 Completed & Evaluated Projects
+*   **Network Intrusion Detection System (NIDS)**
+    *   *Status:* Functional project with evaluated benchmarks.
+    *   *Description:* Implemented gradient boosting baselines (CatBoost & LightGBM) on the UNSW-NB15 dataset. Focused heavily on balancing precision and recall metrics for anomaly detection.
+*   **Real-time Face Detection**
+    *   *Status:* Functional project.
+    *   *Description:* Built a live video processing pipeline using OpenCV to segment and detect facial features.
+
+### 🚀 Active Exploration & Training
+*   **Cyber Data Science (Phishing Detection)**
+    *   *Status:* Conceptualization & Initial Dev.
+    *   *Description:* Exploring Natural Language Processing (NLP) models to automatically classify malicious URLs and emails.
+*   **Network Traffic Analysis**
+    *   *Status:* Self-study.
+    *   *Description:* Analyzing protocol logs and deep-diving into security automation principles.
+
+---
+
+## 🤝 Professional Networks & Contact
 
 | Platform | Link |
 | :--- | :--- |
@@ -52,4 +58,4 @@ The percentages below reflect my current academic level, practical project execu
 | **Email** | [ephremkadja01@gmail.com](mailto:ephremkadja01@gmail.com) |
 
 ---
-<p align="center"><i>Thank you for visiting my profile. Feel free to explore my repositories.</i></p>
+<p align="center"><i>Thank you for visiting. Feel free to explore my source code and notebooks!</i></p>
