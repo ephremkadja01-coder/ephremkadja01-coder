@@ -92,17 +92,17 @@ I believe that in cybersecurity, a model without explainability is a liability, 
 
 ### 📚 Open Source & Continuous Learning
 
-- 🎓 **Certifications**: Python for Data Science (IBM), Data Science Methodology (Coursera), Cybersecurity Essentials (Cisco).
-- ✍️ **Technical Writing**: I document my ML experiments and post-mortems on my [Portfolio](https://ephremkadja.netlify.app).
-- 🏆 **Hackathons**: Participated in 5+ hackathons, building MVPs under pressure (Frontend + ML).
+-  **Certifications**: Python for Data Science (IBM), Data Science Methodology (Coursera), Cybersecurity Essentials (Cisco).
+-  **Technical Writing**: I document my ML experiments and post-mortems on my [Portfolio](https://ephremkadja.netlify.app).
+-  **Hackathons**: Participated in 5+ hackathons, building MVPs under pressure (Frontend + ML).
 
 ---
 
 ### 📂 Currently Building (R&D)
 
-- 🛡️ **Network Intrusion Detection (CICIDS2017)**: Building a robust NIDS using XGBoost and Isolation Forest for zero-day anomaly detection.
-- ⚔️ **Adversarial ML**: Evaluating evasion attacks against my own phishing models.
-- 🛠️ **MLOps**: Experimenting with MLflow and DVC for data versioning.
+-  **Network Intrusion Detection (CICIDS2017)**: Building a robust NIDS using XGBoost and Isolation Forest for zero-day anomaly detection.
+-  **Adversarial ML**: Evaluating evasion attacks against my own phishing models.
+-  **MLOps**: Experimenting with MLflow and DVC for data versioning.
 
 ---
 
