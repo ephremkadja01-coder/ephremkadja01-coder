@@ -6,15 +6,9 @@
   <i>ML Engineer | Cyber Data Science & MLOps</i>
   <br><br>
   
-  <a href="https://ephremkadja.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/ephrem-kadja">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ephremkadja01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://ephremkadja.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ephrem-kadja"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ephremkadja01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br>
@@ -35,18 +29,19 @@ I believe that in cybersecurity, a model without explainability is a liability, 
 
 <div align="center">
 
-| **Data & Core ML** | **Cyber & Explainability** | **MLOps & Infra** |
+| **Data & Core ML** | **Deep Learning & NLP** | **Cyber & MLOps** |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square&logo=opensourceinitiative&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> | <img src="https://img.shields.io/badge/NLTK-3C8A2E?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/XGBoost-150458?style=flat-square&logo=xgboost&logoColor=white" /> | <img src="https://img.shields.io/badge/Regex-000000?style=flat-square&logo=gnometerminal&logoColor=white" /> | <img src="https://img.shields.io/badge/Gradio-FE7A16?style=flat-square&logo=gradio&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Threat_Model-8B5CF6?style=flat-square&logo=shield&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square&logo=opensourceinitiative&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/XGBoost-150458?style=flat-square&logo=xgboost&logoColor=white" /> | <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=yandex&logoColor=black" /> | <img src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=microsoft&logoColor=white" /> | <img src="https://img.shields.io/badge/NLTK-3C8A2E?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Gradio-FE7A16?style=flat-square&logo=gradio&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Regex-000000?style=flat-square&logo=gnometerminal&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" /> |
 
 </div>
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Project & Metrics
 
 <div align="center">
   <a href="https://github.com/ephremkadja01-coder/phishing-detection-nlp">
@@ -59,13 +54,32 @@ I believe that in cybersecurity, a model without explainability is a liability, 
 - **Engineering**: Isotonic calibration, SHAP TreeExplainer, URL/email score fusion.
 - **Ops**: Asymmetric cost evaluation (FN=10x FP), CI/CD, Docker, Threat Model.
 
+<div align="center">
+
+| Metric | Value | Description |
+| :--- | :--- | :--- |
+| **PR-AUC** | `0.98` | High precision on imbalanced data |
+| **Recall (Attacks)** | `96%` | Captures almost all malicious traffic |
+| **Inference Time** | `< 50ms` | Fast enough for real-time SOC triage |
+| **Cost Reduction** | `-35%` | Compared to a naive baseline (FN=10xFP) |
+
+</div>
+
+---
+
+### 🧩 Other Projects
+
+- **[Network Intrusion Detection (CICIDS2017)]**: *(In Progress)* Anomaly detection pipeline using XGBoost and Isolation Forest.
+- **[Customer Churn Prediction]**: Exploratory data analysis and predictive modeling on telecom data.
+- **[House Price Prediction]**: XGBoost regression with advanced feature engineering.
+
 ---
 
 ### 📈 Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ephremkadja01-coder&show_icons=true&theme=radical&hide_title=true&border_radius=10&hide=issues" alt="Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephremkadja01-coder&layout=compact&theme=radical&hide=html,css&border_radius=10" alt="Top Languages" width="280" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephremkadja01-coder&layout=compact&theme=radical&hide=html,css,typescript,javascript,jupyter%20notebook&border_radius=10" alt="Top Languages" width="280" />
 </div>
 
 <br>
@@ -76,11 +90,25 @@ I believe that in cybersecurity, a model without explainability is a liability, 
 
 ---
 
+### 📚 Open Source & Continuous Learning
+
+- 🎓 **Certifications**: Python for Data Science (IBM), Data Science Methodology (Coursera), Cybersecurity Essentials (Cisco).
+- ✍️ **Technical Writing**: I document my ML experiments and post-mortems on my [Portfolio](https://ephremkadja.netlify.app).
+- 🏆 **Hackathons**: Participated in 5+ hackathons, building MVPs under pressure (Frontend + ML).
+
+---
+
 ### 📂 Currently Building (R&D)
 
 - 🛡️ **Network Intrusion Detection (CICIDS2017)**: Building a robust NIDS using XGBoost and Isolation Forest for zero-day anomaly detection.
 - ⚔️ **Adversarial ML**: Evaluating evasion attacks against my own phishing models.
 - 🛠️ **MLOps**: Experimenting with MLflow and DVC for data versioning.
+
+---
+
+### 🌍 Vision
+
+I am based in Abidjan, Côte d'Ivoire. My goal is to build AI systems that solve real-world problems in Africa — from cybersecurity infrastructure to agricultural optimization. I believe that the next generation of African engineers must not only consume AI but build and secure it.
 
 ---
 
