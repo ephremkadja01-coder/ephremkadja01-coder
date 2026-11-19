@@ -1,216 +1,65 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:00B4D8&height=180&section=header&text=Éphrem%20Kadja&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:90E0EF&height=180&section=header&text=EPHREM%20KADJA&fontSize=48&fontColor=ffffff&fontAlignY=50" width="100%" />
 
-  <br>
+<br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Machine+Learning+%7C+AI;Cybersecurity+%7C+Data+Science;Always+learning%2C+always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Machine+Learning+%26+AI;Deep+Learning+%26+Neural+Networks;Building+and+experimenting+with+AI" alt="Typing SVG" />
 
 </div>
 
----
+## About Me
 
-# About Me
+Hi, I'm Éphrem, a Computer Engineering student passionate about Artificial Intelligence and Machine Learning.
 
-Hi, I'm **Éphrem Kadja**, a Computer Engineering student passionate about Artificial Intelligence, Machine Learning and Cybersecurity.
+I'm particularly interested in how machines learn from data, how neural networks work, and how AI models can be applied to real-world problems.
 
-I enjoy building intelligent systems, experimenting with data and exploring how technology can solve real-world problems.
+Currently, I'm strengthening my Machine Learning foundations while exploring Deep Learning, Generative AI and other areas of AI. I spend time learning, experimenting with models and building projects to improve my understanding.
 
-### I'm interested in
+### Areas of Interest
 
-- Machine Learning & Artificial Intelligence
-- Applied Machine Learning for Cybersecurity
+- Machine Learning & Deep Learning
+- Neural Networks
+- Large Language Models (LLMs)
+- Generative AI & AI Agents
+- Computer Vision & Natural Language Processing
 - Data Science & Data Engineering
-- Network Intrusion Detection
-- Natural Language Processing
-- AI-powered applications
 
-### I'm currently learning
+I'm open to internships, collaborations, research projects and open-source contributions. I'm also glad to connect with people working in AI and other areas of technology.
 
-- Advanced Machine Learning techniques
-- Feature Engineering & Model Optimization
-- Model Deployment and MLOps
-- LLMs and AI Agents
-- Cybersecurity Analytics
+## Tech Stack
 
-### I'm looking to collaborate on
+| Category | Technologies |
+|---|---|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189B58?style=flat-square) ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square) |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) |
+| **AI Application Tools** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Tools & Environment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Testing** | ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
 
-- Machine Learning projects
-- AI-powered applications
-- Cybersecurity and intrusion detection projects
-- Data Science projects
-- Open Source initiatives
+## Let's Connect
 
----
+Have a project idea, want to exchange knowledge or just talk about technology? You can reach me here:
 
-# Tech Stack
-
-<div align="center">
-
-| Category | Tools |
-|:---|:---|
-| **AI & Machine Learning** | Python, Scikit-learn, XGBoost, CatBoost, LightGBM |
-| **Data Science** | NumPy, Pandas, Matplotlib, Seaborn |
-| **Programming Languages** | Python, SQL, JavaScript, TypeScript |
-| **Web & API** | FastAPI, React, HTML5, CSS3, Streamlit |
-| **Databases** | MySQL, SQLite |
-| **Cybersecurity** | Scapy, Network Intrusion Detection |
-| **Tools & Environment** | Git, GitHub, Linux, Jupyter, Docker |
-| **Testing** | Pytest |
-
-</div>
-
----
-
-# Technologies & Tools
-
-### AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
-</p>
-
-### Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
-
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### Web & API
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### Cybersecurity
-
-<p>
-  <img src="https://img.shields.io/badge/Scapy-2E8B57?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network%20Security-0077B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Intrusion%20Detection-0A192F?style=for-the-badge"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-# Featured Projects
-
-### Phishing Detection NLP
-
-Machine Learning project focused on detecting phishing attempts using URL and text-based features.
-
-**Technologies:** Python · Machine Learning · NLP · Scikit-learn
-
-[View Repository](https://github.com/ephremkadja01-coder/phishing-detection-nlp)
-
-### Network Intrusion Detection
-
-Exploring Machine Learning approaches for network intrusion detection and cybersecurity analytics.
-
-**Technologies:** Python · XGBoost · CatBoost · Machine Learning
-
-### Customer Churn Prediction
-
-Data analysis and predictive modeling focused on identifying customer churn patterns in telecommunications.
-
-**Technologies:** Python · Pandas · Scikit-learn
-
-### House Price Prediction
-
-A regression project using XGBoost and feature engineering to estimate house prices.
-
-**Technologies:** Python · XGBoost · Scikit-learn
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ephremkadja01-coder&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephremkadja01-coder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=ephremkadja01-coder&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
-
-# Connect With Me
-
-<div align="center">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/ephrem-kadja">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:ephremkadja01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://ephremkadja.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-
-  <a href="https://github.com/ephremkadja01-coder">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-</div>
-
----
+</p>
 
 <div align="center">
+  <i>Learning by doing, one project at a time.</i>
+</div>
+<br/>
 
-  <h3>Always Learning. Always Building.</h3>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:00B4D8&height=100&section=footer" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90E0EF,50:00B4D8,100:0077B6&height=120&section=footer" width="100%" />
 </div>
